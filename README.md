@@ -1,1 +1,1 @@
-# Face-Recognition-System-Using-Haarcascade-Classifiera
+# Face-Recognition-System-Using-Haarcascade-Classifier
